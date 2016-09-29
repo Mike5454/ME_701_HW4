@@ -1,0 +1,8 @@
+
+
+In problem number 3 you need to run give[#] where # refers to the list desired. 0 for Atomic Number, 1 for Atomic Symbol, 
+2 for Mass Number, and 3 for Standard Atomic Weight.
+
+Because there are so many numbers and they tend to get cut-off in python I also provided an atomic mass alternative file 
+that will output all of the lists on a text file. This could be useful if these numbers were to be copied into a spreadsheet. 
+Problem 3 seemed a little vague with how you wanted the lists so I hope this is what you wanted.
